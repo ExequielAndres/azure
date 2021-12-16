@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'entrehumoos'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_9F177FCBB1044324BF76E35162A8C1AA }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_6FE396BE50CF4B27892F725FE8C637E3 }}
